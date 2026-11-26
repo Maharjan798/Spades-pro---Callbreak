@@ -1,0 +1,6 @@
+{
+  "name": "Spades Pro",
+  "description": "Full-stack Spades card game with partnership play, Nil/Blind Nil, regional variants (Standard & Bostons Jokers), intelligent AI, scorepad, and multiplayer sync architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
